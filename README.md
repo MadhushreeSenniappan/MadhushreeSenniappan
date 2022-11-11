@@ -40,7 +40,9 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MadhushreeSenniappan&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="MadhushreeSenniappan" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MadhushreeSenniappan&label=Profile%20views&color=0e75b6&style=flat" alt="MadhushreeSenniappan" /> </p>
 <!-- RAINBOW LINE BOT -->
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ------
